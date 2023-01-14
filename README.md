@@ -12,10 +12,6 @@ A web-based app that allows users to explore the delicious and diverse cuisine o
 - Save your favorite dishes 
 - View recipe information and instructions
 
-## Installation
-1. Clone the repository
-2. Run `npm install` to install the dependencies
-3. Run `npm start` to start the development server
 
 ## Usage
 1. Browse dishes by country or search for a specific dish by name
@@ -25,7 +21,6 @@ A web-based app that allows users to explore the delicious and diverse cuisine o
 ## Tech stack
 - HTML
 - CSS
-- JAVASCRIPT
 
 
 ## Contribution
